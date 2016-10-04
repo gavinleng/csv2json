@@ -1,0 +1,11 @@
+{
+  "name": "csv2json",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node csv2json.js"
+  },
+  "dependencies": {
+    "csvtojson": "^1.0.2"
+  }
+}
